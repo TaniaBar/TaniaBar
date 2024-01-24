@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tania!</h1>
 <h3 align="center">Full stack web & mobile developer student</h3>
 
+<p align="center">
+<img width="50%" src="https://github.com/TaniaBar/TaniaBar/assets/148057407/38c87b9e-9a0a-45a0-af9c-a6463ae2d983">
+</p>
+
+
 - 📫 How to reach me **tania.barillaro1@gmail.com**
+- 📫 How to reach me https://www.linkedin.com/in/tania-barillaro-9a4a83159/
 
 
 <h3 align="left">Languages:</h3>

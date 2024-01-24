@@ -7,7 +7,7 @@
 
 
 - 📫 How to reach me **tania.barillaro1@gmail.com**
-- 📫 How to reach me https://www.linkedin.com/in/tania-barillaro-9a4a83159/
+- 📫 LinkedIn https://www.linkedin.com/in/tania-barillaro-9a4a83159/
 
 
 <h3 align="left">Languages:</h3>

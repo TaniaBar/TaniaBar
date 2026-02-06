@@ -14,8 +14,9 @@ My name is Tania Barillaro, I'm a full stack web & mobile developer in training.
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,github,figma,git,react" /><br>
     <img src="https://skillicons.dev/icons?i=javascript,php,mysql,angular,symfony,flutter,java,docker" /><br>
 </div>
-<br />
+<hr />
 - 📫 How to reach me **tania.barillaro1@gmail.com**
+<br />
 - 📫 LinkedIn https://www.linkedin.com/in/tania-barillaro-9a4a83159/
 
 

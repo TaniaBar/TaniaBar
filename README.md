@@ -14,11 +14,11 @@ My name is Tania Barillaro, I'm a full stack web & mobile developer in training.
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,github,figma,git,react" /><br>
     <img src="https://skillicons.dev/icons?i=javascript,php,mysql,angular,symfony,flutter,java,docker" /><br>
 </div>
-
+<br />
 - 📫 How to reach me **tania.barillaro1@gmail.com**
 - 📫 LinkedIn https://www.linkedin.com/in/tania-barillaro-9a4a83159/
 
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaniaBar&show_icons=true&count_private=true&hide=contribs,prs)
+
